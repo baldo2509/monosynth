@@ -52,28 +52,29 @@ circuit board designs, and reduced parts costs.
 
 ## Modules
 ### Main Signal Path
-* **Input module:** MIDI to Control Voltage converter, arpeggiator 
-  and expression wheel controller;
-* **2 Voltage Controlled Oscillators**;
-* **Sub-Oscillator** (Frequency divider);
-* **Audio Source Mixer**;
-* **Voltage Controlled Filter** with variable output type 
-and dedicated modulation mixer;
+* **Input module: (WIP)** MIDI to Control Voltage converter, arpeggiator 
+    and expression wheel controller;
+* **2 Voltage Controlled Oscillators (VCOs)**;
+* **Sub-Oscillator (WIP)**;
+* **Audio sources mixer**;
+* **Voltage Controlled Filter (VCF)** with variable output type 
+    and dedicated modulation sources mixer;
 * **Voltage Controlled Amplifier**;
-* **Output module** with headphone and stereo line output;
+* **Output module (WIP)** with headphone and stereo line outputs;
 ### Modulation Sources
 * **2 ADSR envelope generators**;
-* **Low Frequency Modulation Generator**;
-* **Modulation Matrix** for the VCOs;
+* **Low frequency modulator** (with selectable square/pulse wave,
+    triangle/saw wave, and S/H outputs);
+* **Modulation matrix** for VCO modulation inputs;
 ### Audio effects
 * **Distortion**;
-* **Chorus** with stereo output;
-* **Stereo Delay**;
+* **Chorus (WIP)** with stereo output;
+* **Stereo Delay (WIP)**;
 
 ## Credits
 
-All circuit designs and boards are based on publicly available schematics or
-commonly used circuit fragments; for a detailed list of all sources, see the
+All circuit and board designs are based on publicly available schematics or
+commonly used circuit fragments; for a detailed list of sources, see the
 [CREDITS.md][/CREDITS.md] file.
 
 ## License

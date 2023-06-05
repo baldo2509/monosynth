@@ -1,0 +1,6206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1237.5646"
+   height="553.20374"
+   id="svg4341"
+   sodipodi:docname="VCA_coppia_diff.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="VCA_coppia_diff.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4343"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0162866"
+     inkscape:cx="675.99041"
+     inkscape:cy="286.33655"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4339" />
+  <defs
+     id="defs2977">
+    <rect
+       x="13.775641"
+       y="385.22595"
+       width="50.182693"
+       height="78.717949"
+       id="rect5601" />
+    <rect
+       x="479.38892"
+       y="316.57761"
+       width="34.788746"
+       height="47.312695"
+       id="rect4643" />
+    <rect
+       x="457.54807"
+       y="193.84296"
+       width="7.8717947"
+       height="21.647436"
+       id="rect4637" />
+    <rect
+       x="37.883015"
+       y="21.647436"
+       width="401.95352"
+       height="145.98033"
+       id="rect4627" />
+    <rect
+       x="37.883015"
+       y="21.647436"
+       width="401.95352"
+       height="145.98033"
+       id="rect4627-3" />
+    <rect
+       x="37.883015"
+       y="21.647436"
+       width="667.73956"
+       height="20.740833"
+       id="rect4627-2" />
+  </defs>
+  <g
+     transform="translate(-209.71936,-60)"
+     id="g4339">
+    <rect
+       x="219"
+       y="432"
+       width="33"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3005" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3009"
+       transform="translate(-6.4919872,2)">
+      <text
+         x="243.5"
+         y="441.5"
+         id="text3007">POT1</text>
+    </g>
+    <rect
+       x="224"
+       y="448"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3011" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3015"
+       transform="translate(0,2)">
+      <text
+         x="235.5"
+         y="457.5"
+         id="text3013">100k lin</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3015-1"
+       transform="translate(-3.1632612,31.059771)">
+      <text
+         x="239.00801"
+         y="443.5"
+         id="text3013-5"><tspan
+           sodipodi:role="line"
+           id="tspan5595"
+           x="239.00801"
+           y="443.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial, Helvetica;-inkscape-font-specification:'Arial, Helvetica'">Valore</tspan><tspan
+           sodipodi:role="line"
+           id="tspan5597"
+           x="239.00801"
+           y="458.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial, Helvetica;-inkscape-font-specification:'Arial, Helvetica'">Iniziale</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(200.14724,12.440229)"
+         id="text5599"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial, Helvetica;-inkscape-font-specification:'Arial, Helvetica';white-space:pre;shape-inside:url(#rect5601);display:inline;fill:#000000" />
+    </g>
+    <rect
+       x="269"
+       y="429"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect2979" />
+    <rect
+       x="269"
+       y="489"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect2981" />
+    <rect
+       x="299"
+       y="459"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect2983" />
+    <path
+       d="m 270,442 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2985" />
+    <path
+       d="m 270,448 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2987" />
+    <path
+       d="m 270,454 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2989" />
+    <path
+       d="m 270,460 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2991" />
+    <path
+       d="m 270,466 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2993" />
+    <path
+       d="m 270,472 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2995" />
+    <path
+       d="m 270,431 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2997" />
+    <path
+       d="m 270,479 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path2999" />
+    <path
+       d="m 285,460 h 14"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3001" />
+    <path
+       d="m 286.77,462.69 c -0.16,-0.05 -2.32,-0.67 -4.78,-1.37 -2.47,-0.71 -4.49,-1.29 -4.49,-1.31 0,-0.01 2.03,-0.58 4.5,-1.26 2.47,-0.68 4.63,-1.27 4.8,-1.32 l 0.31,-0.08 -0.02,2.71 -0.01,2.71 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3003" />
+    <rect
+       x="269"
+       y="369"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3017" />
+    <rect
+       x="269"
+       y="429"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3019" />
+    <path
+       d="m 270,382 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3021" />
+    <path
+       d="m 270,388 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3023" />
+    <path
+       d="m 270,394 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3025" />
+    <path
+       d="m 270,400 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3027" />
+    <path
+       d="m 270,406 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3029" />
+    <path
+       d="m 270,412 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3031" />
+    <path
+       d="m 270,371 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3033" />
+    <path
+       d="m 270,419 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3035" />
+    <rect
+       x="244"
+       y="384"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3037" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3041"
+       transform="translate(-4,16)">
+      <text
+         x="252"
+         y="381.5"
+         id="text3039">R1</text>
+    </g>
+    <rect
+       x="239"
+       y="402"
+       width="17"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3043" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3047"
+       transform="translate(0,14)">
+      <text
+         x="247.5"
+         y="397.5"
+         id="text3045">20k</text>
+    </g>
+    <rect
+       x="269"
+       y="489"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3049" />
+    <path
+       d="m 259,511 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3051" />
+    <path
+       d="m 263,517 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3053" />
+    <path
+       d="m 267,523 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3055" />
+    <path
+       d="m 270,491 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3057" />
+    <rect
+       x="269"
+       y="309"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90,270,300)"
+       pointer-events="none"
+       id="rect3059" />
+    <circle
+       cx="270"
+       cy="300"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       transform="rotate(-90,270,300)"
+       pointer-events="none"
+       id="ellipse3061"
+       r="4.1350002" />
+    <path
+       d="m 270,305 v 4"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(-90,270,300)"
+       pointer-events="none"
+       id="path3063" />
+    <rect
+       x="220"
+       y="290"
+       width="34"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3065" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3069"
+       transform="translate(0,2)">
+      <text
+         x="237"
+         y="301.5"
+         id="text3067">CV IN</text>
+    </g>
+    <rect
+       x="329"
+       y="269"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="rect3071" />
+    <rect
+       x="329"
+       y="329"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="rect3073" />
+    <path
+       d="m 330,282 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3075" />
+    <path
+       d="m 330,288 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3077" />
+    <path
+       d="m 330,294 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3079" />
+    <path
+       d="m 330,300 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3081" />
+    <path
+       d="m 330,306 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3083" />
+    <path
+       d="m 330,312 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3085" />
+    <path
+       d="m 330,271 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3087" />
+    <path
+       d="m 330,319 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,300)"
+       pointer-events="none"
+       id="path3089" />
+    <rect
+       x="320"
+       y="270"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3091" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3095"
+       transform="translate(-2,4)">
+      <text
+         x="331.5"
+         y="281.5"
+         id="text3093">100k</text>
+    </g>
+    <rect
+       x="320"
+       y="250"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3097" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3101"
+       transform="translate(2,10)">
+      <text
+         x="328"
+         y="261.5"
+         id="text3099">R3</text>
+    </g>
+    <rect
+       x="329"
+       y="429"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="rect3103" />
+    <rect
+       x="329"
+       y="489"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="rect3105" />
+    <path
+       d="m 330,442 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3107" />
+    <path
+       d="m 330,448 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3109" />
+    <path
+       d="m 330,454 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3111" />
+    <path
+       d="m 330,460 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3113" />
+    <path
+       d="m 330,466 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3115" />
+    <path
+       d="m 330,472 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3117" />
+    <path
+       d="m 330,431 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3119" />
+    <path
+       d="m 330,479 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,330,460)"
+       pointer-events="none"
+       id="path3121" />
+    <rect
+       x="320"
+       y="434"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3123" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3127"
+       transform="translate(-2,4)">
+      <text
+         x="331.5"
+         y="441.5"
+         id="text3125">100k</text>
+    </g>
+    <rect
+       x="320"
+       y="414"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3129" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3133"
+       transform="translate(2,10)">
+      <text
+         x="328"
+         y="421.5"
+         id="text3131">R2</text>
+    </g>
+    <path
+       d="m 280,300 h 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3135" />
+    <rect
+       x="389"
+       y="489"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="rect3137" />
+    <rect
+       x="389"
+       y="449"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="rect3139" />
+    <rect
+       x="519"
+       y="469"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="rect3141" />
+    <path
+       d="M 410.07,520 V 420 l 90,50 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3143" />
+    <path
+       d="m 390.93,490 h 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3145" />
+    <path
+       d="m 391.07,450 h 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3147" />
+    <path
+       d="m 500.07,470 h 19"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3149" />
+    <path
+       d="m 418.05,490 h 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3151" />
+    <path
+       d="m 418.05,450 h 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3153" />
+    <path
+       d="m 421.97,446.08 v 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,950)"
+       pointer-events="none"
+       id="path3155" />
+    <rect
+       x="470"
+       y="430"
+       width="28"
+       height="16"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3157" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3161"
+       transform="translate(-8)">
+      <text
+         x="484"
+         y="443"
+         id="text3159">IC1A</text>
+    </g>
+    <rect
+       x="379"
+       y="509"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3163" />
+    <path
+       d="m 369,531 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3165" />
+    <path
+       d="m 373,537 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3167" />
+    <path
+       d="m 377,543 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3169" />
+    <path
+       d="m 380,511 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3171" />
+    <path
+       d="m 380,510 v -10 h 10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3173" />
+    <rect
+       x="449"
+       y="359"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="rect3175" />
+    <rect
+       x="449"
+       y="419"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="rect3177" />
+    <path
+       d="m 450,372 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3179" />
+    <path
+       d="m 450,378 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3181" />
+    <path
+       d="m 450,384 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3183" />
+    <path
+       d="m 450,390 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3185" />
+    <path
+       d="m 450,396 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3187" />
+    <path
+       d="m 450,402 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3189" />
+    <path
+       d="m 450,361 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3191" />
+    <path
+       d="m 450,409 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,450,390)"
+       pointer-events="none"
+       id="path3193" />
+    <rect
+       x="439.39154"
+       y="370"
+       width="17"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3195" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3199"
+       transform="translate(3.3915499,-4)">
+      <text
+         x="448.5"
+         y="381.5"
+         id="text3197">82k</text>
+    </g>
+    <rect
+       x="439.39154"
+       y="350"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3201" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3205"
+       transform="translate(3.3915499,2)">
+      <text
+         x="448"
+         y="361.5"
+         id="text3203">R4</text>
+    </g>
+    <rect
+       x="719"
+       y="379"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3207" />
+    <rect
+       x="719"
+       y="439"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3209" />
+    <path
+       d="m 720,392 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3211" />
+    <path
+       d="m 720,398 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3213" />
+    <path
+       d="m 720,404 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3215" />
+    <path
+       d="m 720,410 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3217" />
+    <path
+       d="m 720,416 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3219" />
+    <path
+       d="m 720,422 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3221" />
+    <path
+       d="m 720,381 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3223" />
+    <path
+       d="m 720,429 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3225" />
+    <rect
+       x="689"
+       y="410"
+       width="17"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3227" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3231"
+       transform="translate(0,12)">
+      <text
+         x="697.5"
+         y="407.5"
+         id="text3229">10k</text>
+    </g>
+    <rect
+       x="690"
+       y="394"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3233" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3237"
+       transform="translate(0,14)">
+      <text
+         x="698"
+         y="391.5"
+         id="text3235">R5</text>
+    </g>
+    <path
+       d="m 480,390 h 40 v 90"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3239" />
+    <path
+       d="m 720,440 v 40 H 522"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3241" />
+    <circle
+       cx="520"
+       cy="480"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3243"
+       r="2" />
+    <rect
+       x="729"
+       y="289"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="rect3245" />
+    <rect
+       x="769"
+       y="259"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="rect3247" />
+    <rect
+       x="769"
+       y="319"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="rect3249" />
+    <circle
+       cx="760.67999"
+       cy="290"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="ellipse3251"
+       r="24.813633" />
+    <path
+       d="m 731,290 h 23"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3253" />
+    <path
+       d="m 755,295 15,10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3255" />
+    <path
+       d="m 755,285 15,-10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3257" />
+    <path
+       d="m 770,261 v 13"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3259" />
+    <path
+       d="m 770,306 v 13"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3261" />
+    <path
+       d="m 755,273 v 34"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3263" />
+    <path
+       d="m 761.96,303.11 7.5,1.35 -4.19,-6.36 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="matrix(-1,0,0,1,1520,0)"
+       pointer-events="none"
+       id="path3265" />
+    <rect
+       x="790"
+       y="260"
+       width="17"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3267" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3271"
+       transform="translate(-4,-4)">
+      <text
+         x="798.5"
+         y="271.5"
+         id="text3269">Q2</text>
+    </g>
+    <rect
+       x="649"
+       y="289"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3273" />
+    <rect
+       x="689"
+       y="259"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3275" />
+    <rect
+       x="689"
+       y="319"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3277" />
+    <circle
+       cx="680.67999"
+       cy="290"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3279"
+       r="24.813633" />
+    <path
+       d="m 651,290 h 23"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3281" />
+    <path
+       d="m 675,295 15,10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3283" />
+    <path
+       d="m 675,285 15,-10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3285" />
+    <path
+       d="m 690,261 v 13"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3287" />
+    <path
+       d="m 690,306 v 13"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3289" />
+    <path
+       d="m 675,273 v 34"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3291" />
+    <path
+       d="m 681.96,303.11 7.5,1.35 -4.19,-6.36 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3293" />
+    <rect
+       x="630"
+       y="260"
+       width="17"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3295" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3299"
+       transform="translate(10,-6)">
+      <text
+         x="638.5"
+         y="271.5"
+         id="text3297">Q1</text>
+    </g>
+    <path
+       d="m 690,320 v 20 h 60 v -20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3301" />
+    <path
+       d="M 720,380 V 342"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3303" />
+    <circle
+       cx="720"
+       cy="340"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3305"
+       r="2" />
+    <rect
+       x="749"
+       y="119"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3307" />
+    <rect
+       x="749"
+       y="179"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3309" />
+    <path
+       d="m 750,132 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3311" />
+    <path
+       d="m 750,138 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3313" />
+    <path
+       d="m 750,144 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3315" />
+    <path
+       d="m 750,150 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3317" />
+    <path
+       d="m 750,156 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3319" />
+    <path
+       d="m 750,162 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3321" />
+    <path
+       d="m 750,121 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3323" />
+    <path
+       d="m 750,169 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3325" />
+    <rect
+       x="710"
+       y="149.50801"
+       width="28"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3327" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3331"
+       transform="translate(0,9.5080128)">
+      <text
+         x="724"
+         y="151.5"
+         id="text3329">20k m</text>
+    </g>
+    <rect
+       x="712"
+       y="127"
+       width="20"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3333" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3337"
+       transform="translate(2,15.508013)">
+      <text
+         x="722"
+         y="132"
+         id="text3335">R7</text>
+    </g>
+    <path
+       d="m 750,180 v 80"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3339" />
+    <rect
+       x="689"
+       y="119"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3341" />
+    <rect
+       x="689"
+       y="179"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3343" />
+    <path
+       d="m 690,132 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3345" />
+    <path
+       d="m 690,138 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3347" />
+    <path
+       d="m 690,144 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3349" />
+    <path
+       d="m 690,150 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3351" />
+    <path
+       d="m 690,156 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3353" />
+    <path
+       d="m 690,162 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3355" />
+    <path
+       d="m 690,121 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3357" />
+    <path
+       d="m 690,169 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3359" />
+    <rect
+       x="640"
+       y="142"
+       width="36"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3361" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3365"
+       transform="translate(0,10)">
+      <text
+         x="658"
+         y="151.5"
+         id="text3363">20k m</text>
+    </g>
+    <rect
+       x="650"
+       y="130"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3367" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3371"
+       transform="translate(0,16)">
+      <text
+         x="658"
+         y="131.5"
+         id="text3369">R6</text>
+    </g>
+    <path
+       d="M 690,260 V 180"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3373" />
+    <rect
+       x="619"
+       y="309"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3375" />
+    <rect
+       x="619"
+       y="369"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3377" />
+    <path
+       d="m 620,322 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3379" />
+    <path
+       d="m 620,328 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3381" />
+    <path
+       d="m 620,334 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3383" />
+    <path
+       d="m 620,340 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3385" />
+    <path
+       d="m 620,346 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3387" />
+    <path
+       d="m 620,352 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3389" />
+    <path
+       d="m 620,311 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3391" />
+    <path
+       d="m 620,359 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3393" />
+    <rect
+       x="586.6084"
+       y="326"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3395" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3399"
+       transform="translate(-2.0873247,6)">
+      <text
+         x="598"
+         y="331.5"
+         id="text3397">R8</text>
+    </g>
+    <rect
+       x="586.6084"
+       y="346"
+       width="21"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3401" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3405"
+       transform="translate(-5.3915498)">
+      <text
+         x="600.5"
+         y="351.5"
+         id="text3403">100Ω</text>
+    </g>
+    <path
+       d="m 650,290 h -30 v 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3407" />
+    <rect
+       x="619"
+       y="369"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3409" />
+    <path
+       d="m 609,391 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3411" />
+    <path
+       d="m 613,397 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3413" />
+    <path
+       d="m 617,403 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3415" />
+    <path
+       d="m 620,371 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3417" />
+    <rect
+       x="559"
+       y="259"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="rect3419" />
+    <rect
+       x="559"
+       y="319"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="rect3421" />
+    <path
+       d="m 560,272 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3423" />
+    <path
+       d="m 560,278 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3425" />
+    <path
+       d="m 560,284 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3427" />
+    <path
+       d="m 560,290 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3429" />
+    <path
+       d="m 560,296 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3431" />
+    <path
+       d="m 560,302 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3433" />
+    <path
+       d="m 560,261 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3435" />
+    <path
+       d="m 560,309 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,560,290)"
+       pointer-events="none"
+       id="path3437" />
+    <rect
+       x="550"
+       y="260"
+       width="28"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3439" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3443"
+       transform="translate(-4,4)">
+      <text
+         x="564"
+         y="271.5"
+         id="text3441">100k</text>
+    </g>
+    <rect
+       x="554"
+       y="220"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3445" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3449"
+       transform="translate(-8,10)">
+      <text
+         x="568"
+         y="251.5"
+         id="text3447">R9</text>
+    </g>
+    <path
+       d="M 618,290 H 590"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3451" />
+    <circle
+       cx="620"
+       cy="290"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3453"
+       r="2" />
+    <rect
+       x="519"
+       y="299"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90,520,290)"
+       pointer-events="none"
+       id="rect3455" />
+    <circle
+       cx="520"
+       cy="290"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       transform="rotate(-90,520,290)"
+       pointer-events="none"
+       id="ellipse3457"
+       r="4.1350002" />
+    <path
+       d="m 520,295 v 4"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(-90,520,290)"
+       pointer-events="none"
+       id="path3459" />
+    <rect
+       x="450"
+       y="280"
+       width="63"
+       height="16"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3461" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3465"
+       transform="translate(-10,1.3464309)">
+      <text
+         x="481.5"
+         y="293"
+         id="text3463">SIGNAL IN</text>
+    </g>
+    <rect
+       x="819"
+       y="309"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3467" />
+    <rect
+       x="819"
+       y="369"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3469" />
+    <path
+       d="m 820,322 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3471" />
+    <path
+       d="m 820,328 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3473" />
+    <path
+       d="m 820,334 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3475" />
+    <path
+       d="m 820,340 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3477" />
+    <path
+       d="m 820,346 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3479" />
+    <path
+       d="m 820,352 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3481" />
+    <path
+       d="m 820,311 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3483" />
+    <path
+       d="m 820,359 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3485" />
+    <rect
+       x="788"
+       y="318"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3487" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3491"
+       transform="translate(5.2169003,6.9577494)">
+      <text
+         x="791.5"
+         y="331.5"
+         id="text3489">R10</text>
+    </g>
+    <rect
+       x="786.6084"
+       y="340"
+       width="18"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3493" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3497"
+       transform="translate(6.6084502)">
+      <text
+         x="789"
+         y="351.5"
+         id="text3495">100Ω</text>
+    </g>
+    <rect
+       x="819"
+       y="369"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3499" />
+    <path
+       d="m 809,391 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3501" />
+    <path
+       d="m 813,397 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3503" />
+    <path
+       d="m 817,403 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3505" />
+    <path
+       d="m 820,371 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3507" />
+    <rect
+       x="869"
+       y="259"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="rect3509" />
+    <rect
+       x="869"
+       y="319"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="rect3511" />
+    <path
+       d="m 870,272 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3513" />
+    <path
+       d="m 870,278 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3515" />
+    <path
+       d="m 870,284 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3517" />
+    <path
+       d="m 870,290 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3519" />
+    <path
+       d="m 870,296 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3521" />
+    <path
+       d="m 870,302 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3523" />
+    <path
+       d="m 870,261 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3525" />
+    <path
+       d="m 870,309 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,870,290)"
+       pointer-events="none"
+       id="path3527" />
+    <rect
+       x="860"
+       y="240"
+       width="22"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3529" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3533"
+       transform="translate(-0.69577494,12)">
+      <text
+         x="871"
+         y="251.5"
+         id="text3531">R11</text>
+    </g>
+    <rect
+       x="860"
+       y="260"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3535" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3539"
+       transform="translate(-2,6)">
+      <text
+         x="871.5"
+         y="271.5"
+         id="text3537">100k</text>
+    </g>
+    <path
+       d="m 790,290 h 50"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3541" />
+    <path
+       d="M 820,310 V 292"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3543" />
+    <circle
+       cx="820"
+       cy="290"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3545"
+       r="2" />
+    <rect
+       x="909"
+       y="339"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="rect3547" />
+    <rect
+       x="909"
+       y="399"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="rect3549" />
+    <rect
+       x="939"
+       y="369"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="rect3551" />
+    <path
+       d="m 910,341 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="path3553" />
+    <path
+       d="m 910,389 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="path3555" />
+    <path
+       d="m 903,352 c 13.39,-0.18 14,0 14,0 v 36 h -14 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="path3557" />
+    <path
+       d="m 925,370 h 14"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="path3559" />
+    <path
+       d="m 926.77,372.69 c -0.16,-0.05 -2.32,-0.67 -4.78,-1.37 -2.47,-0.71 -4.49,-1.29 -4.49,-1.31 0,-0.01 2.03,-0.58 4.5,-1.26 2.47,-0.68 4.63,-1.27 4.8,-1.32 l 0.31,-0.08 -0.02,2.71 -0.01,2.71 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(-90,920,370)"
+       pointer-events="none"
+       id="path3561" />
+    <rect
+       x="900"
+       y="392"
+       width="37"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3563" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3567"
+       transform="translate(2)">
+      <text
+         x="918.5"
+         y="401.5"
+         id="text3565">TRIM1</text>
+    </g>
+    <rect
+       x="910"
+       y="412"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3569" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3573"
+       transform="translate(-2,-8)">
+      <text
+         x="921.5"
+         y="421.5"
+         id="text3571">100k lin</text>
+    </g>
+    <path
+       d="m 900,290 h 20 v 60"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3575" />
+    <rect
+       x="269"
+       y="329"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(180,270,350)"
+       pointer-events="none"
+       id="rect3577" />
+    <path
+       d="m 270,331 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,270,350)"
+       pointer-events="none"
+       id="path3579" />
+    <path
+       d="m 259,349.53 h 22 l -11,19 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,270,350)"
+       pointer-events="none"
+       id="path3581" />
+    <rect
+       x="260"
+       y="310"
+       width="22"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3583" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3587">
+      <text
+         x="271"
+         y="322.5"
+         id="text3585">+12</text>
+    </g>
+    <path
+       d="m 360,460 h 28"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3589" />
+    <circle
+       cx="390"
+       cy="460"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3591"
+       r="2" />
+    <path
+       d="m 360,300 h 30 v 158"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3593" />
+    <circle
+       cx="390"
+       cy="460"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3595"
+       r="2" />
+    <path
+       d="M 420,390 H 392"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3597" />
+    <circle
+       cx="390"
+       cy="390"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3599"
+       r="2" />
+    <rect
+       x="689"
+       y="79"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(180,690,100)"
+       pointer-events="none"
+       id="rect3601" />
+    <path
+       d="M 690,81 V 99"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,690,100)"
+       pointer-events="none"
+       id="path3603" />
+    <path
+       d="m 679,99.53 h 22 l -11,19 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,690,100)"
+       pointer-events="none"
+       id="path3605" />
+    <rect
+       x="680"
+       y="60"
+       width="18"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3607" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3611">
+      <text
+         x="689"
+         y="72.5"
+         id="text3609">+12</text>
+    </g>
+    <rect
+       x="749"
+       y="79"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(180,750,100)"
+       pointer-events="none"
+       id="rect3613" />
+    <path
+       d="M 750,81 V 99"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,750,100)"
+       pointer-events="none"
+       id="path3615" />
+    <path
+       d="m 739,99.53 h 22 l -11,19 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,750,100)"
+       pointer-events="none"
+       id="path3617" />
+    <rect
+       x="740"
+       y="60"
+       width="18"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3619" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3623">
+      <text
+         x="749"
+         y="72.5"
+         id="text3621">+12</text>
+    </g>
+    <rect
+       x="869"
+       y="339"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(180,870,360)"
+       pointer-events="none"
+       id="rect3625" />
+    <path
+       d="m 870,341 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,870,360)"
+       pointer-events="none"
+       id="path3627" />
+    <path
+       d="m 859,359.53 h 22 l -11,19 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,870,360)"
+       pointer-events="none"
+       id="path3629" />
+    <rect
+       x="860"
+       y="320"
+       width="18"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3631" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3635">
+      <text
+         x="869"
+         y="332.5"
+         id="text3633">+12</text>
+    </g>
+    <path
+       d="M 890,380 H 870"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3637" />
+    <rect
+       x="969"
+       y="379"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3639" />
+    <path
+       d="m 959,401 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3641" />
+    <path
+       d="m 959,401 c 10.5,16.31 11,17 11,17"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3643" />
+    <path
+       d="m 981,401 c -10.88,16.94 -11,17 -11,17"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3645" />
+    <path
+       d="m 964.56,409.1 -5.01,-8.04 5.17,-0.18 c 2.84,-0.11 7.51,-0.11 10.37,0 l 5.21,0.18 -4.91,7.88 c -2.7,4.34 -5.11,7.96 -5.36,8.05 -0.25,0.08 -2.71,-3.47 -5.47,-7.89 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3647" />
+    <path
+       d="m 964.56,409.1 -5.01,-8.04 5.17,-0.18 c 2.84,-0.11 7.51,-0.11 10.37,0 l 5.21,0.18 -4.91,7.88 c -2.7,4.34 -5.11,7.96 -5.36,8.05 -0.25,0.08 -2.71,-3.47 -5.47,-7.89 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3649" />
+    <path
+       d="m 970,381 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3651" />
+    <rect
+       x="960"
+       y="420"
+       width="22"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3653" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3657">
+      <text
+         x="971"
+         y="432.5"
+         id="text3655">- 12</text>
+    </g>
+    <path
+       d="m 950,380 h 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3659" />
+    <rect
+       x="829"
+       y="199"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="rect3661" />
+    <rect
+       x="829"
+       y="259"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="rect3663" />
+    <path
+       d="m 830,212 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3665" />
+    <path
+       d="m 830,218 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3667" />
+    <path
+       d="m 830,224 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3669" />
+    <path
+       d="m 830,230 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3671" />
+    <path
+       d="m 830,236 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3673" />
+    <path
+       d="m 830,242 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3675" />
+    <path
+       d="m 830,201 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3677" />
+    <path
+       d="m 830,249 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,830,230)"
+       pointer-events="none"
+       id="path3679" />
+    <rect
+       x="800"
+       y="200"
+       width="36"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3681" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3685"
+       transform="translate(11.967948,6.4919872)">
+      <text
+         x="818"
+         y="211.5"
+         id="text3683">10k m</text>
+    </g>
+    <rect
+       x="840"
+       y="200"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3687" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3691"
+       transform="translate(-21.210198,-6.4919872)">
+      <text
+         x="851.5"
+         y="211.5"
+         id="text3689">R12</text>
+    </g>
+    <rect
+       x="909"
+       y="159"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="rect3693" />
+    <rect
+       x="909"
+       y="219"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="rect3695" />
+    <path
+       d="m 910,172 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3697" />
+    <path
+       d="m 910,178 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3699" />
+    <path
+       d="m 910,184 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3701" />
+    <path
+       d="m 910,190 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3703" />
+    <path
+       d="m 910,196 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3705" />
+    <path
+       d="m 910,202 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3707" />
+    <path
+       d="m 910,161 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3709" />
+    <path
+       d="m 910,209 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,910,190)"
+       pointer-events="none"
+       id="path3711" />
+    <rect
+       x="875"
+       y="157"
+       width="50"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3713" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3717">
+      <text
+         x="910"
+         y="178"
+         id="text3715">10k m</text>
+    </g>
+    <rect
+       x="890"
+       y="140"
+       width="30"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3719" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3723"
+       transform="translate(6,10)">
+      <text
+         x="905"
+         y="155"
+         id="text3721">R13</text>
+    </g>
+    <path
+       d="M 880,190 H 692"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3725" />
+    <circle
+       cx="690"
+       cy="190"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3727"
+       r="2" />
+    <path
+       d="M 800,230 H 752"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3729" />
+    <circle
+       cx="750"
+       cy="230"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3731"
+       r="2" />
+    <rect
+       x="969"
+       y="259"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3733" />
+    <rect
+       x="969"
+       y="319"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3735" />
+    <path
+       d="m 970,272 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3737" />
+    <path
+       d="m 970,278 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3739" />
+    <path
+       d="m 970,284 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3741" />
+    <path
+       d="m 970,290 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3743" />
+    <path
+       d="m 970,296 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3745" />
+    <path
+       d="m 970,302 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3747" />
+    <path
+       d="m 970,261 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3749" />
+    <path
+       d="m 970,309 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3751" />
+    <rect
+       x="990"
+       y="270"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3753" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3757"
+       transform="translate(0,6)">
+      <text
+         x="1001.5"
+         y="281.5"
+         id="text3755">R14</text>
+    </g>
+    <rect
+       x="980"
+       y="290"
+       width="43"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3759" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3763">
+      <text
+         x="1001.5"
+         y="301.5"
+         id="text3761">100k m</text>
+    </g>
+    <rect
+       x="969"
+       y="319"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3765" />
+    <path
+       d="m 959,341 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3767" />
+    <path
+       d="m 963,347 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3769" />
+    <path
+       d="m 967,353 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3771" />
+    <path
+       d="m 970,321 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3773" />
+    <rect
+       x="999"
+       y="219"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="rect3775" />
+    <rect
+       x="999"
+       y="179"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="rect3777" />
+    <rect
+       x="1129"
+       y="199"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="rect3779" />
+    <path
+       d="M 1020.07,250 V 150 l 90,50 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3781" />
+    <path
+       d="m 1000.93,220 h 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3783" />
+    <path
+       d="m 1001.07,180 h 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3785" />
+    <path
+       d="m 1110.07,200 h 19"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3787" />
+    <path
+       d="m 1028.05,220 h 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3789" />
+    <path
+       d="m 1028.05,180 h 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3791" />
+    <path
+       d="m 1031.97,176.08 v 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="matrix(1,0,0,-1,0,410)"
+       pointer-events="none"
+       id="path3793" />
+    <rect
+       x="1080"
+       y="160"
+       width="28"
+       height="16"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3795" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3799"
+       transform="translate(-10,-2)">
+      <text
+         x="1094"
+         y="173"
+         id="text3797">IC1B</text>
+    </g>
+    <path
+       d="m 860,230 h 140"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3801" />
+    <path
+       d="M 970,260 V 232"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3803" />
+    <circle
+       cx="970"
+       cy="230"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3805"
+       r="2" />
+    <path
+       d="m 940,190 h 60"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3807" />
+    <rect
+       x="1049"
+       y="99"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="rect3809" />
+    <rect
+       x="1049"
+       y="159"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="rect3811" />
+    <path
+       d="m 1050,112 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3813" />
+    <path
+       d="m 1050,118 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3815" />
+    <path
+       d="m 1050,124 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3817" />
+    <path
+       d="m 1050,130 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3819" />
+    <path
+       d="m 1050,136 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3821" />
+    <path
+       d="m 1050,142 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3823" />
+    <path
+       d="m 1050,101 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3825" />
+    <path
+       d="m 1050,149 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1050,130)"
+       pointer-events="none"
+       id="path3827" />
+    <rect
+       x="1040"
+       y="80"
+       width="30"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3829" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3833"
+       transform="translate(-5.0160256,10)">
+      <text
+         x="1055"
+         y="95"
+         id="text3831">R15 </text>
+    </g>
+    <rect
+       x="1014"
+       y="97"
+       width="60"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3835" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3839">
+      <text
+         x="1050"
+         y="118"
+         id="text3837">100k m</text>
+    </g>
+    <path
+       d="m 1130,210 v -80 h -50"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3841" />
+    <path
+       d="m 1020,130 h -50 v 58"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3843" />
+    <circle
+       cx="970"
+       cy="190"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3845"
+       r="2" />
+    <rect
+       x="1189"
+       y="179"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="rect3847" />
+    <rect
+       x="1189"
+       y="239"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="rect3849" />
+    <path
+       d="m 1190,192 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3851" />
+    <path
+       d="m 1190,198 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3853" />
+    <path
+       d="m 1190,204 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3855" />
+    <path
+       d="m 1190,210 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3857" />
+    <path
+       d="m 1190,216 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3859" />
+    <path
+       d="m 1190,222 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3861" />
+    <path
+       d="m 1190,181 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3863" />
+    <path
+       d="m 1190,229 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1190,210)"
+       pointer-events="none"
+       id="path3865" />
+    <rect
+       x="1179.3042"
+       y="180"
+       width="20"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3867" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3871"
+       transform="translate(-1.3915499,2)">
+      <text
+         x="1190"
+         y="195"
+         id="text3869"> 1k</text>
+    </g>
+    <rect
+       x="1178.6084"
+       y="172"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3873" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3877"
+       transform="translate(-1.3915499,2)">
+      <text
+         x="1191.5"
+         y="181.5"
+         id="text3875">R16</text>
+    </g>
+    <path
+       d="m 1160,210 h -28"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3879" />
+    <circle
+       cx="1130"
+       cy="210"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse3881"
+       r="2" />
+    <rect
+       x="1071"
+       y="375"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3883" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3887"
+       transform="translate(2,16)">
+      <text
+         x="1069.6899"
+         y="335.85999"
+         id="text3885">+12V</text>
+    </g>
+    <path
+       d="m 1072,357 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3889" />
+    <path
+       d="m 1062,356 h 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3891" />
+    <rect
+       x="1211"
+       y="375"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3893" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3897"
+       transform="translate(2,16)">
+      <text
+         x="1209.6899"
+         y="335.85999"
+         id="text3895">-12V</text>
+    </g>
+    <path
+       d="m 1212,357 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3899" />
+    <path
+       d="m 1202,356 h 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3901" />
+    <rect
+       x="1071"
+       y="375"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3903" />
+    <rect
+       x="1071"
+       y="435"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3905" />
+    <path
+       d="m 1072,388 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3907" />
+    <path
+       d="m 1072,394 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3909" />
+    <path
+       d="m 1072,400 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3911" />
+    <path
+       d="m 1072,406 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3913" />
+    <path
+       d="m 1072,412 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3915" />
+    <path
+       d="m 1072,418 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3917" />
+    <path
+       d="m 1072,377 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3919" />
+    <path
+       d="m 1072,425 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3921" />
+    <rect
+       x="1036"
+       y="394"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3923" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3927"
+       transform="translate(6,24)">
+      <text
+         x="1041.5"
+         y="381.5"
+         id="text3925">R17</text>
+    </g>
+    <rect
+       x="1046"
+       y="414"
+       width="12"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3929" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3933"
+       transform="translate(0.6084502,18)">
+      <text
+         x="1046"
+         y="401.5"
+         id="text3931">10Ω</text>
+    </g>
+    <rect
+       x="1211"
+       y="375"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3935" />
+    <rect
+       x="1211"
+       y="435"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3937" />
+    <path
+       d="m 1212,388 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3939" />
+    <path
+       d="m 1212,394 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3941" />
+    <path
+       d="m 1212,400 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3943" />
+    <path
+       d="m 1212,406 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3945" />
+    <path
+       d="m 1212,412 7,3 -7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3947" />
+    <path
+       d="m 1212,418 -7,3 7,3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3949" />
+    <path
+       d="m 1212,377 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3951" />
+    <path
+       d="m 1212,425 v 10"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3953" />
+    <rect
+       x="1222"
+       y="386"
+       width="23"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3955" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3959"
+       transform="translate(4,24)">
+      <text
+         x="1231.5"
+         y="381.5"
+         id="text3957">R18</text>
+    </g>
+    <rect
+       x="1228"
+       y="414"
+       width="12"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3961" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g3965"
+       transform="translate(-0.6957749,18)">
+      <text
+         x="1236"
+         y="401.5"
+         id="text3963">10Ω</text>
+    </g>
+    <rect
+       x="1141"
+       y="525"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3967" />
+    <path
+       d="m 1131,547 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3969" />
+    <path
+       d="m 1135,553 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3971" />
+    <path
+       d="m 1139,559 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3973" />
+    <path
+       d="m 1142,527 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3975" />
+    <rect
+       x="1071"
+       y="525"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3977" />
+    <path
+       d="m 1072,527 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3979" />
+    <path
+       d="m 1061,545.53 h 22 l -11,19 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3981" />
+    <rect
+       x="1062"
+       y="566"
+       width="18"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect3983" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3987"
+       transform="translate(2,16)">
+      <text
+         x="1069"
+         y="562.5"
+         id="text3985">+12</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g3987-7"
+       transform="translate(62.87882,12.208932)" />
+    <rect
+       x="1211"
+       y="525"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect3989" />
+    <path
+       d="m 1201,547 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3991" />
+    <path
+       d="m 1201,547 c 10.5,16.31 11,17 11,17"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3993" />
+    <path
+       d="m 1223,547 c -10.88,16.94 -11,17 -11,17"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3995" />
+    <path
+       d="m 1206.56,555.1 -5.01,-8.04 5.17,-0.18 c 2.84,-0.11 7.51,-0.11 10.37,0 l 5.21,0.18 -4.91,7.88 c -2.7,4.34 -5.11,7.96 -5.36,8.05 -0.25,0.08 -2.71,-3.47 -5.47,-7.89 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3997" />
+    <path
+       d="m 1206.56,555.1 -5.01,-8.04 5.17,-0.18 c 2.84,-0.11 7.51,-0.11 10.37,0 l 5.21,0.18 -4.91,7.88 c -2.7,4.34 -5.11,7.96 -5.36,8.05 -0.25,0.08 -2.71,-3.47 -5.47,-7.89 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path3999" />
+    <path
+       d="m 1212,527 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4001" />
+    <rect
+       x="1202"
+       y="566"
+       width="19"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4003" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g4007"
+       transform="translate(2,16)">
+      <text
+         x="1209.5"
+         y="562.5"
+         id="text4005">- 12</text>
+    </g>
+    <rect
+       x="1269"
+       y="489"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4009" />
+    <rect
+       x="1269"
+       y="449"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4011" />
+    <rect
+       x="1329"
+       y="519"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4013" />
+    <rect
+       x="1329"
+       y="419"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4015" />
+    <rect
+       x="1399"
+       y="469"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4017" />
+    <path
+       d="M 1290,520 V 420 l 90,50 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4019" />
+    <path
+       d="m 1271,490 h 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4021" />
+    <path
+       d="m 1271,450 h 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4023" />
+    <path
+       d="M 1330,519 V 499"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4025" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-size="10px"
+       id="g4029">
+      <text
+         x="1334.52"
+         y="510.57999"
+         id="text4027">V-</text>
+    </g>
+    <path
+       d="M 1330,441 V 421"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4031" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-size="10px"
+       id="g4035">
+      <text
+         x="1335.05"
+         y="432.85001"
+         id="text4033">V+</text>
+    </g>
+    <path
+       d="m 1380,470 h 19"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4037" />
+    <path
+       d="m 1297.44,489.92 h 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4039" />
+    <path
+       d="m 1297.44,450 h 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4041" />
+    <path
+       d="m 1301.36,446.08 v 7.84"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4043" />
+    <rect
+       x="1329"
+       y="339"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(180,1330,360)"
+       pointer-events="none"
+       id="rect4045" />
+    <path
+       d="m 1330,341 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,1330,360)"
+       pointer-events="none"
+       id="path4047" />
+    <path
+       d="m 1319,359.53 h 22 l -11,19 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(180,1330,360)"
+       pointer-events="none"
+       id="path4049" />
+    <rect
+       x="1320"
+       y="320"
+       width="18"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4051" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g4055">
+      <text
+         x="1329"
+         y="332.5"
+         id="text4053">+12</text>
+    </g>
+    <rect
+       x="1329"
+       y="559"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4057" />
+    <path
+       d="m 1319,581 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4059" />
+    <path
+       d="m 1319,581 c 10.5,16.31 11,17 11,17"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4061" />
+    <path
+       d="m 1341,581 c -10.88,16.94 -11,17 -11,17"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4063" />
+    <path
+       d="m 1324.56,589.1 -5.01,-8.04 5.17,-0.18 c 2.84,-0.11 7.51,-0.11 10.37,0 l 5.21,0.18 -4.91,7.88 c -2.7,4.34 -5.11,7.96 -5.36,8.05 -0.25,0.08 -2.71,-3.47 -5.47,-7.89 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4065" />
+    <path
+       d="m 1324.56,589.1 -5.01,-8.04 5.17,-0.18 c 2.84,-0.11 7.51,-0.11 10.37,0 l 5.21,0.18 -4.91,7.88 c -2.7,4.34 -5.11,7.96 -5.36,8.05 -0.25,0.08 -2.71,-3.47 -5.47,-7.89 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4067" />
+    <path
+       d="m 1330,561 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4069" />
+    <rect
+       x="1320"
+       y="600"
+       width="19"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4071" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="14px"
+       id="g4075">
+      <text
+         x="1329.5"
+         y="612.5"
+         id="text4073">- 12</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4079"
+       transform="translate(2)">
+      <text
+         x="1140"
+         y="285"
+         id="text4077">RIDUZIONE RUMORE</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4083"
+       transform="translate(2)">
+      <text
+         x="1140"
+         y="300"
+         id="text4081">ALIMENTATORE</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4087">
+      <text
+         x="1335"
+         y="285"
+         id="text4085">ALIMENTAZIONE</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4091">
+      <text
+         x="1335"
+         y="300"
+         id="text4089">IC OP-AMP</text>
+    </g>
+    <rect
+       x="1374"
+       y="374"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1375,400)"
+       pointer-events="none"
+       id="rect4101" />
+    <rect
+       x="1374"
+       y="424"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1375,400)"
+       pointer-events="none"
+       id="rect4103" />
+    <path
+       d="m 1364,396 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,400)"
+       pointer-events="none"
+       id="path4105" />
+    <path
+       d="m 1364,404 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,400)"
+       pointer-events="none"
+       id="path4107" />
+    <path
+       d="m 1375,376 v 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,400)"
+       pointer-events="none"
+       id="path4109" />
+    <path
+       d="m 1375,405 v 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,400)"
+       pointer-events="none"
+       id="path4111" />
+    <rect
+       x="1360"
+       y="370"
+       width="30"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4113" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4117"
+       transform="translate(2,2)">
+      <text
+         x="1375"
+         y="381.5"
+         id="text4115">100nF</text>
+    </g>
+    <rect
+       x="1360"
+       y="350"
+       width="25"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4119" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4123"
+       transform="translate(4,8)">
+      <text
+         x="1372.5"
+         y="361.5"
+         id="text4121">CB1</text>
+    </g>
+    <rect
+       x="1374"
+       y="514"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1375,540)"
+       pointer-events="none"
+       id="rect4125" />
+    <rect
+       x="1374"
+       y="564"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1375,540)"
+       pointer-events="none"
+       id="rect4127" />
+    <path
+       d="m 1364,536 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,540)"
+       pointer-events="none"
+       id="path4129" />
+    <path
+       d="m 1364,544 c 22,0 22,0 22,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,540)"
+       pointer-events="none"
+       id="path4131" />
+    <path
+       d="m 1375,516 v 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,540)"
+       pointer-events="none"
+       id="path4133" />
+    <path
+       d="m 1375,545 v 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1375,540)"
+       pointer-events="none"
+       id="path4135" />
+    <rect
+       x="1360"
+       y="490"
+       width="25"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4137" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4141"
+       transform="translate(2,8)">
+      <text
+         x="1372.5"
+         y="501.5"
+         id="text4139">CB2</text>
+    </g>
+    <rect
+       x="1360"
+       y="510"
+       width="30"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4143" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4147"
+       transform="translate(0,2)">
+      <text
+         x="1375"
+         y="521.5"
+         id="text4145">100nF</text>
+    </g>
+    <path
+       d="m 1330,380 v 40"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4149" />
+    <path
+       d="m 1350,400 h -18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4151" />
+    <circle
+       cx="1330"
+       cy="400"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4153"
+       r="2" />
+    <rect
+       x="1419"
+       y="559"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4155" />
+    <path
+       d="m 1409,581 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4157" />
+    <path
+       d="m 1413,587 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4159" />
+    <path
+       d="m 1417,593 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4161" />
+    <path
+       d="m 1420,561 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4163" />
+    <rect
+       x="1419"
+       y="419"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect4165" />
+    <path
+       d="m 1409,441 c 22.02,0 22.02,0 22.02,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4167" />
+    <path
+       d="m 1413,447 c 9.57,0 14,0 14,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4169" />
+    <path
+       d="m 1417,453 c 3.12,0 6,0 6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4171" />
+    <path
+       d="m 1420,421 v 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4173" />
+    <rect
+       x="505"
+       y="-1133"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect4175" />
+    <rect
+       x="505"
+       y="-1083"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect4177" />
+    <path
+       d="m 1111,495 c 0,22 0,22 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4179" />
+    <path
+       d="m 1103,495 c 0,22 0,22 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4181" />
+    <path
+       d="m 1131,506 h -19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4183" />
+    <path
+       d="m 1102,506 h -19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4185" />
+    <rect
+       x="1092"
+       y="476"
+       width="30"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4187" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4191"
+       transform="translate(2.9839744,16)">
+      <text
+         x="1105"
+         y="471.5"
+         id="text4189">100nF</text>
+    </g>
+    <rect
+       x="1092"
+       y="456"
+       width="20"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4193" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4197"
+       transform="translate(5.3915498,18)">
+      <text
+         x="1100"
+         y="455"
+         id="text4195"> C2</text>
+    </g>
+    <rect
+       x="505"
+       y="-1203"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect4199" />
+    <rect
+       x="505"
+       y="-1153"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect4201" />
+    <path
+       d="m 1181,495 c 0,22 0,22 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4203" />
+    <path
+       d="m 1173,495 c 0,22 0,22 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4205" />
+    <path
+       d="m 1201,506 h -19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4207" />
+    <path
+       d="m 1172,506 h -19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4209" />
+    <rect
+       x="1162"
+       y="476"
+       width="37"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4211" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4215"
+       transform="translate(0.4919872,16)">
+      <text
+         x="1178.5"
+         y="471.5"
+         id="text4213">100nF</text>
+    </g>
+    <rect
+       x="1162"
+       y="456"
+       width="30"
+       height="20"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4217" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4221"
+       transform="translate(-0.6084502,18)">
+      <text
+         x="1175"
+         y="455"
+         id="text4219">  C1</text>
+    </g>
+    <path
+       d="M 1212,526 V 436"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4223" />
+    <path
+       d="m 1202,506 h 8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4225" />
+    <circle
+       cx="1212"
+       cy="506"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4227"
+       r="2" />
+    <path
+       d="m 1072,438 v 88"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4229" />
+    <circle
+       cx="1072"
+       cy="436"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4231"
+       r="2" />
+    <path
+       d="m 1082,506 h -8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4233" />
+    <circle
+       cx="1072"
+       cy="506"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4235"
+       r="2" />
+    <path
+       d="m 1400,400 h 20 v 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4237" />
+    <path
+       d="m 1400,540 h 20 v 20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4239" />
+    <path
+       d="m 1330,520 v 40"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4241" />
+    <path
+       d="m 1350,540 h -18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4243" />
+    <circle
+       cx="1330"
+       cy="540"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4245"
+       r="2" />
+    <rect
+       x="435"
+       y="1151"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(0,1,1,0,0,0)"
+       pointer-events="none"
+       id="rect4247" />
+    <rect
+       x="435"
+       y="1201"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(0,1,1,0,0,0)"
+       pointer-events="none"
+       id="rect4249" />
+    <path
+       d="m 1157,426 c 10,0 10,0 10,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4251" />
+    <path
+       d="m 1162,421 c 0,10 0,10 0,10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4253" />
+    <path
+       d="m 1173,425 c 0,22 0,22 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4255" />
+    <path
+       d="m 1185,425 c -5.44,5.92 -5.35,15.99 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4257" />
+    <path
+       d="m 1153,436 h 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4259" />
+    <path
+       d="m 1182,436 h 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4261" />
+    <rect
+       x="1172"
+       y="386"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4263" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4267"
+       transform="translate(0,22)">
+      <text
+         x="1178"
+         y="381.5"
+         id="text4265">C3</text>
+    </g>
+    <rect
+       x="1162"
+       y="406"
+       width="27"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4269" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4273"
+       transform="translate(5.3042251,16)">
+      <text
+         x="1173.5"
+         y="401.5"
+         id="text4271">47uF</text>
+    </g>
+    <rect
+       x="435"
+       y="1081"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(0,1,1,0,0,0)"
+       pointer-events="none"
+       id="rect4275" />
+    <rect
+       x="435"
+       y="1131"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="matrix(0,1,1,0,0,0)"
+       pointer-events="none"
+       id="rect4277" />
+    <path
+       d="m 1087,426 c 10,0 10,0 10,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4279" />
+    <path
+       d="m 1092,421 c 0,10 0,10 0,10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4281" />
+    <path
+       d="m 1103,425 c 0,22 0,22 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4283" />
+    <path
+       d="m 1115,425 c -5.44,5.92 -5.35,15.99 0,22"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4285" />
+    <path
+       d="m 1083,436 h 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4287" />
+    <path
+       d="m 1112,436 h 19"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4289" />
+    <rect
+       x="1092"
+       y="406"
+       width="27"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4291" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4295"
+       transform="translate(4,16)">
+      <text
+         x="1103.5"
+         y="401.5"
+         id="text4293">47uF</text>
+    </g>
+    <rect
+       x="1092"
+       y="386"
+       width="16"
+       height="13"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4297" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4301"
+       transform="translate(8,22)">
+      <text
+         x="1098"
+         y="381.5"
+         id="text4299">C4</text>
+    </g>
+    <path
+       d="m 1082,436 h -8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4303" />
+    <circle
+       cx="1072"
+       cy="436"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4305"
+       r="2" />
+    <path
+       d="m 1202,436 h 8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4307" />
+    <circle
+       cx="1212"
+       cy="436"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4309"
+       r="2" />
+    <path
+       d="m 1142,526 v -90 h -10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4311" />
+    <path
+       d="m 1152,436 h -8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4313" />
+    <circle
+       cx="1142"
+       cy="436"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4315"
+       r="2" />
+    <path
+       d="m 1152,506 h -8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4317" />
+    <circle
+       cx="1142"
+       cy="506"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4319"
+       r="2" />
+    <path
+       d="m 1132,506 h 8"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4321" />
+    <circle
+       cx="1142"
+       cy="506"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse4323"
+       r="2" />
+    <rect
+       x="1249"
+       y="219"
+       width="2"
+       height="2"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90,1250,210)"
+       pointer-events="none"
+       id="rect4325" />
+    <circle
+       cx="1249.99"
+       cy="210"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       transform="rotate(90,1250,210)"
+       pointer-events="none"
+       id="ellipse4327"
+       r="4.1350002" />
+    <path
+       d="m 1250,215 v 4"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       transform="rotate(90,1250,210)"
+       pointer-events="none"
+       id="path4329" />
+    <rect
+       x="1267.9126"
+       y="201.39154"
+       width="77"
+       height="16"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect4331" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g4335"
+       transform="translate(-2.0873248,1.3915499)">
+      <text
+         x="1308.5"
+         y="213"
+         id="text4333">SIGNAL OUT</text>
+    </g>
+    <path
+       d="m 1240,210 h -20"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4337" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000"
+       x="336.36905"
+       y="117.42397"
+       id="text4518"><tspan
+         sodipodi:role="line"
+         id="tspan4516"
+         x="336.36905"
+         y="117.42397"
+         style="font-size:14.6667px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000"
+       x="209.74084"
+       y="610.11713"
+       id="text4522"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="209.74084"
+         y="610.11713">Adattato da circuito di Erica Synths e Moritz Klein, tutti i diritti ai rispettivi proprietari.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(176.32051,46.152244)"
+       id="text4625"
+       style="font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect4627);display:inline;fill:#000000"><tspan
+         x="37.882812"
+         y="34.85758"
+         id="tspan1809">IC1:
+</tspan><tspan
+         x="37.882812"
+         y="53.190954"
+         id="tspan1811">    Amplificatore Operazionale Doppio (TL072 o simile)       
+</tspan><tspan
+         x="37.882812"
+         y="71.524328"
+         id="tspan1813">    OPPURE
+</tspan><tspan
+         x="37.882812"
+         y="89.857702"
+         id="tspan1815">    1/2 Amplificatore Operazionale Quadruplo (TL074 o simile); 
+</tspan><tspan
+         x="37.882812"
+         y="108.19108"
+         id="tspan1817">Q1 e Q2:
+</tspan><tspan
+         x="37.882812"
+         y="126.52445"
+         id="tspan1819">    BJT NPN (BC547 o simile);
+</tspan><tspan
+         x="37.882812"
+         y="144.85782"
+         id="tspan1821">Resistenze contrassegnate con &quot;m&quot; devono essere abbinate </tspan><tspan
+         x="37.882812"
+         y="163.1912"
+         id="tspan1823">(cercarne due simili in un lotto del valore indicato);</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(762.99203,41.319092)"
+       id="text4625-8"
+       style="font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect4627-2);display:inline;fill:#000000"><tspan
+         x="37.882812"
+         y="34.85758"
+         id="tspan1827"><tspan
+           style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic'"
+           id="tspan1825">AMPLIFICATORE CONTROLLATO IN TENSIONE (VCA) BASATO SU COPPIA DIFFERENZIALE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(196,55.5)"
+       id="text4635"
+       style="font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect4637);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="translate(196,55.5)"
+       id="text4641"
+       style="font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect4643);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000"
+       x="791.58337"
+       y="499.40442"
+       id="text4828"><tspan
+         sodipodi:role="line"
+         id="tspan4826"
+         x="791.58337"
+         y="499.40442" /></text>
+  </g>
+</svg>

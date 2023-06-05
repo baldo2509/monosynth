@@ -1,0 +1,26 @@
+# Compiled code
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Os files
+
+.DS_Store
+.DS_Store?
+._*
+
+# kicad files
+
+fp-info-cache
+*.kicad_prl
+*-backups
+*.bak
+
+#ltSPICE files
+
+*.raw
+*.log

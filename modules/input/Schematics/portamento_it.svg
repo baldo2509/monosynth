@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1312.5385"
+   height="578.44232"
+   id="svg558"
+   sodipodi:docname="Portamento.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="Portamento.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview560"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.94545455"
+     inkscape:cx="648.36538"
+     inkscape:cy="294.03846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g556" />
+  <defs
+     id="defs282">
+    <rect
+       x="37.01923"
+       y="353.26923"
+       width="501.34616"
+       height="188.26923"
+       id="rect830" />
+    <rect
+       x="37.01923"
+       y="353.26923"
+       width="378.65384"
+       height="39.134617"
+       id="rect830-9" />
+  </defs>
+  <g
+     transform="translate(-330.24937,-291.89614)"
+     id="g556">
+    <rect
+       x="556.20001"
+       y="552.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect284" />
+    <rect
+       x="556.20001"
+       y="480.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect286" />
+    <rect
+       x="790.20001"
+       y="516.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect288" />
+    <path
+       d="M 594.13,608 V 428 l 162,90 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path290" />
+    <path
+       d="m 559.67,554 h 32.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path292" />
+    <path
+       d="m 559.93,482 h 32.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path294" />
+    <path
+       d="m 756.13,518 h 34.2"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path296" />
+    <path
+       d="M 608.48,554 H 622.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path298" />
+    <path
+       d="M 608.48,482 H 622.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path300" />
+    <path
+       d="m 615.54,474.94 v 14.12"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path302" />
+    <rect
+       x="720"
+       y="446"
+       width="50.400002"
+       height="23.4"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect304" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g308"
+       transform="translate(0,14)">
+      <text
+         x="745.20001"
+         y="456.29999"
+         id="text306">IC1A</text>
+    </g>
+    <rect
+       x="-519.79999"
+       y="466.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90)"
+       pointer-events="none"
+       id="rect310" />
+    <circle
+       cx="-518.01001"
+       cy="449.98999"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       transform="rotate(-90)"
+       pointer-events="none"
+       id="ellipse312"
+       r="7.4429998" />
+    <path
+       d="m 459,518 h 7.2"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path314" />
+    <rect
+       x="342"
+       y="486"
+       width="61.200001"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect316" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g320"
+       transform="translate(16,16)">
+      <text
+         x="372.60001"
+         y="513"
+         id="text318">CV IN</text>
+    </g>
+    <rect
+       x="-519.79999"
+       y="844.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90)"
+       pointer-events="none"
+       id="rect322" />
+    <rect
+       x="-519.79999"
+       y="952.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90)"
+       pointer-events="none"
+       id="rect324" />
+    <rect
+       x="-465.79999"
+       y="898.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(-90)"
+       pointer-events="none"
+       id="rect326" />
+    <path
+       d="m 867.6,518 5.4,-12.6 5.4,12.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path328" />
+    <path
+       d="m 878.4,518 5.4,12.6 5.4,-12.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path330" />
+    <path
+       d="m 889.2,518 5.4,-12.6 5.4,12.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path332" />
+    <path
+       d="m 900,518 5.4,12.6 5.4,-12.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path334" />
+    <path
+       d="m 910.8,518 5.4,-12.6 5.4,12.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path336" />
+    <path
+       d="m 921.6,518 5.4,12.6 5.4,-12.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path338" />
+    <path
+       d="m 847.8,518 h 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path340" />
+    <path
+       d="m 934.2,518 h 18"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path342" />
+    <path
+       d="M 900,491 V 465.8"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path344" />
+    <path
+       d="m 904.83,487.81 c -0.08,0.3 -1.19,4.18 -2.46,8.61 -1.27,4.44 -2.32,8.07 -2.35,8.07 -0.03,0 -1.05,-3.64 -2.27,-8.09 -1.22,-4.45 -2.29,-8.34 -2.37,-8.64 l -0.16,-0.55 4.89,0.02 4.88,0.03 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1.62"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path346" />
+    <rect
+       x="864"
+       y="392"
+       width="120.6"
+       height="23.4"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect348" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g352"
+       transform="translate(-22,24)">
+      <text
+         x="924.29999"
+         y="402.29999"
+         id="text350">Portamento</text>
+    </g>
+    <rect
+       x="864"
+       y="356"
+       width="106.2"
+       height="23.4"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect354" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g358"
+       transform="translate(-16,26)">
+      <text
+         x="917.09998"
+         y="366.29999"
+         id="text356">100k LOG</text>
+    </g>
+    <rect
+       x="882"
+       y="320"
+       width="59.400002"
+       height="23.4"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect360" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g364"
+       transform="translate(-6,30)">
+      <text
+         x="911.70001"
+         y="330.29999"
+         id="text362">POT1</text>
+    </g>
+    <rect
+       x="1006.2"
+       y="660.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect366" />
+    <rect
+       x="1006.2"
+       y="750.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect368" />
+    <path
+       d="m 990,671 c 0,18 0,18 0,18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2.7"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path370" />
+    <path
+       d="m 981,680 c 18,0 18,0 18,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="2.7"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path372" />
+    <path
+       d="m 988.2,699.8 c 39.6,0 39.6,0 39.6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path374" />
+    <path
+       d="m 988.2,721.4 c 10.65,-9.79 28.79,-9.63 39.6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path376" />
+    <path
+       d="M 1008,663.8 V 698"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path378" />
+    <path
+       d="m 1008,716 v 34.2"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path380" />
+    <rect
+       x="1062"
+       y="734"
+       width="41.400002"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect382" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g386"
+       transform="translate(-8,12)">
+      <text
+         x="1082.7"
+         y="747"
+         id="text384">25V</text>
+    </g>
+    <rect
+       x="1062"
+       y="698"
+       width="48.599998"
+       height="23.4"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect388" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g392"
+       transform="translate(-8,10)">
+      <text
+         x="1086.3"
+         y="708.29999"
+         id="text390">2,2uF</text>
+    </g>
+    <rect
+       x="1062"
+       y="662"
+       width="28.799999"
+       height="23.4"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect394" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g398"
+       transform="translate(-2,8)">
+      <text
+         x="1076.4"
+         y="672.29999"
+         id="text396">C1</text>
+    </g>
+    <rect
+       x="1186.2"
+       y="552.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect400" />
+    <rect
+       x="1186.2"
+       y="480.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect402" />
+    <rect
+       x="1294.2"
+       y="606.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect404" />
+    <rect
+       x="1294.2"
+       y="426.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect406" />
+    <rect
+       x="1420.2"
+       y="516.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect408" />
+    <path
+       d="M 1224,608 V 428 l 162,90 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path410" />
+    <path
+       d="m 1189.8,554 h 32.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path412" />
+    <path
+       d="m 1189.8,482 h 32.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path414" />
+    <path
+       d="m 1296,606.2 v -36"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path416" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-size="18px"
+       id="g420"
+       transform="translate(0,14)">
+      <text
+         x="1304.14"
+         y="577.03998"
+         id="text418">V-</text>
+    </g>
+    <path
+       d="m 1296,465.8 v -36"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path422" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       font-size="18px"
+       id="g426"
+       transform="translate(0,14)">
+      <text
+         x="1305.09"
+         y="437.13"
+         id="text424">V+</text>
+    </g>
+    <path
+       d="m 1386,518 h 34.2"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path428" />
+    <path
+       d="m 1237.39,553.86 h 14.12"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path430" />
+    <path
+       d="m 1237.39,482 h 14.12"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path432" />
+    <path
+       d="m 1244.45,474.94 v 14.12"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path434" />
+    <rect
+       x="1368"
+       y="446"
+       width="50.400002"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect436" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g440"
+       transform="translate(-14,12)">
+      <text
+         x="1393.2"
+         y="459"
+         id="text438">IC1B</text>
+    </g>
+    <rect
+       x="1006.2"
+       y="750.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect442" />
+    <path
+       d="m 988.2,789.8 c 39.64,0 39.64,0 39.64,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path444" />
+    <path
+       d="m 995.4,800.6 c 17.23,0 25.2,0 25.2,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path446" />
+    <path
+       d="m 1002.6,811.4 c 5.62,0 10.8,0 10.8,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path448" />
+    <path
+       d="m 1008,753.8 v 32.4"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path450" />
+    <path
+       d="m 558,482 h -36 v 36 h -54"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path452" />
+    <rect
+       x="1294.2"
+       y="606.20001"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       pointer-events="none"
+       id="rect454" />
+    <path
+       d="m 1276.2,645.8 c 39.6,0 39.6,0 39.6,0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path456" />
+    <path
+       d="m 1276.2,645.8 c 18.9,29.36 19.8,30.6 19.8,30.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path458" />
+    <path
+       d="m 1315.8,645.8 c -19.58,30.49 -19.8,30.6 -19.8,30.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path460" />
+    <path
+       d="m 1286.21,660.38 -9.02,-14.47 9.31,-0.33 c 5.11,-0.19 13.51,-0.19 18.66,0 l 9.38,0.33 -8.84,14.18 c -4.86,7.81 -9.2,14.33 -9.65,14.49 -0.45,0.15 -4.87,-6.24 -9.84,-14.2 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path462" />
+    <path
+       d="m 1286.21,660.38 -9.02,-14.47 9.31,-0.33 c 5.11,-0.19 13.51,-0.19 18.66,0 l 9.38,0.33 -8.84,14.18 c -4.86,7.81 -9.2,14.33 -9.65,14.49 -0.45,0.15 -4.87,-6.24 -9.84,-14.2 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path464" />
+    <path
+       d="m 1296,609.8 v 32.4"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path466" />
+    <rect
+       x="1332"
+       y="644"
+       width="48.599998"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect468" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g472"
+       transform="translate(0,14)">
+      <text
+         x="1356.3"
+         y="657"
+         id="text470">-12V</text>
+    </g>
+    <rect
+       x="-1297.8"
+       y="-429.79999"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="scale(-1)"
+       pointer-events="none"
+       id="rect474" />
+    <path
+       d="M 1296,426.2 V 393.8"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path476" />
+    <path
+       d="m 1315.8,392.85 h -39.6 l 19.8,-34.2 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path478" />
+    <rect
+       x="1332"
+       y="356"
+       width="55.799999"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect480" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g484"
+       transform="translate(0,14)">
+      <text
+         x="1359.9"
+         y="369"
+         id="text482">+12V</text>
+    </g>
+    <path
+       d="M 792,521.6 V 518 644 H 558 v -90"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path486" />
+    <circle
+       cx="792"
+       cy="518"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       pointer-events="none"
+       id="ellipse488"
+       r="3.5999999" />
+    <path
+       d="M 846,518 H 795.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path490" />
+    <circle
+       cx="792"
+       cy="518"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       pointer-events="none"
+       id="ellipse492"
+       r="3.5999999" />
+    <path
+       d="M 1422,521.6 V 716 H 1188 V 554"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path494" />
+    <circle
+       cx="1422"
+       cy="518"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       pointer-events="none"
+       id="ellipse496"
+       r="3.5999999" />
+    <rect
+       x="516.19995"
+       y="-1477.8"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect498" />
+    <circle
+       cx="517.98999"
+       cy="-1494.01"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="ellipse500"
+       r="7.4429998" />
+    <path
+       d="m 1485,518 h -7.2"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path502" />
+    <rect
+       x="1548"
+       y="500"
+       width="86.400002"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect504" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g508"
+       transform="translate(-18,14)">
+      <text
+         x="1591.2"
+         y="513"
+         id="text506">CV OUT</text>
+    </g>
+    <path
+       d="m 1476,518 h -50.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path510" />
+    <circle
+       cx="1422"
+       cy="518"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       pointer-events="none"
+       id="ellipse512"
+       r="3.5999999" />
+    <rect
+       x="642.19995"
+       y="-1009.8"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect514" />
+    <rect
+       x="534.20001"
+       y="-1009.8"
+       width="3.5999999"
+       height="3.5999999"
+       fill="#000000"
+       stroke="none"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="rect516" />
+    <circle
+       cx="621.5"
+       cy="-1008"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="3.6"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="ellipse518"
+       r="3.5999999" />
+    <circle
+       cx="558.5"
+       cy="-1008"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="3.6"
+       transform="rotate(90)"
+       pointer-events="none"
+       id="ellipse520"
+       r="3.5999999" />
+    <path
+       d="m 1008,626.9 v 15.3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path522" />
+    <path
+       d="m 1008,537.8 v 15.3"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path524" />
+    <path
+       d="m 1009.85,561.47 14.29,36.51"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path526" />
+    <path
+       d="m 1028.03,593.24 1.86,20.43 -11.98,-16.66 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="1.8"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path528" />
+    <rect
+       x="900"
+       y="554"
+       width="28.799999"
+       height="28.799999"
+       fill-opacity="0"
+       fill="#dae2f2"
+       stroke="none"
+       pointer-events="none"
+       id="rect530" />
+    <g
+       fill="#000000"
+       font-family="Arial, Helvetica"
+       text-anchor="middle"
+       font-size="28.8px"
+       id="g534"
+       transform="translate(-6.3461538,17.173076)">
+      <text
+         x="914.40002"
+         y="567"
+         id="text532">S1</text>
+    </g>
+    <path
+       d="m 954,518 h 54 v 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path536" />
+    <path
+       d="m 1188,482 h -36 v 36 h -140.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path538" />
+    <circle
+       cx="1008"
+       cy="518"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       pointer-events="none"
+       id="ellipse540"
+       r="3.5999999" />
+    <path
+       d="m 900,464 v 0 -18 h 108 v 68.4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path542" />
+    <circle
+       cx="1008"
+       cy="518"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.6"
+       pointer-events="none"
+       id="ellipse544"
+       r="3.5999999" />
+    <g
+       transform="scale(1.8)"
+       id="g548">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 84px; height: 1px; padding-top: 317px; margin-left: 464px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; max-height: 41px; overflow: hidden; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 16px; font-family: Helvetica,Arial; color: #000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                            Portamento On/Off
+                        </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+    <path
+       d="m 1008,644 v 18"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.6"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path550" />
+    <g
+       transform="scale(1.8)"
+       id="g554">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 294px; height: 1px; padding-top: 437px; margin-left: 204px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 41px; overflow: hidden; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 16px; font-family: Helvetica,Arial; color: #000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                            IC1: Amplificatore Operazionale Doppio, TL072 o
+                            simile
+                        </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:29.3333px;white-space:pre;inline-size:161.564;display:inline;fill:#000000"
+       x="1056.8232"
+       y="593.28076"
+       id="text774"
+       transform="translate(-229.51923,21.288461)"><tspan
+         x="1056.8232"
+         y="593.28076"
+         id="tspan27604"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+           id="tspan27602">Portamento </tspan></tspan><tspan
+         x="1056.8232"
+         y="630.41636"
+         id="tspan27608"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
+           id="tspan27606">On/Off</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(316.19168,310.29999)"
+       id="text828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect830);display:inline;fill:#000000"
+       x="-204.88193"
+       y="0"><tspan
+         x="37.019531"
+         y="379.69163"
+         id="tspan27612"><tspan
+           style="text-align:start"
+           id="tspan27610">IC1:
+</tspan></tspan><tspan
+         x="37.019531"
+         y="416.35826"
+         id="tspan27616"><tspan
+           style="text-align:start"
+           id="tspan27614">Amplificatore Operazionale Doppio </tspan></tspan><tspan
+         x="37.019531"
+         y="453.02488"
+         id="tspan27620"><tspan
+           style="text-align:start"
+           id="tspan27618">(TL072 o simile) OPPURE
+</tspan></tspan><tspan
+         x="37.019531"
+         y="489.69151"
+         id="tspan27624"><tspan
+           style="text-align:start"
+           id="tspan27622">1/2 Amplificatore Operazionale </tspan></tspan><tspan
+         x="37.019531"
+         y="526.35813"
+         id="tspan27628"><tspan
+           style="text-align:start"
+           id="tspan27626">Quadruplo (TL074 o simile);</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1205.1706,-44.38376)"
+       id="text828-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;white-space:pre;shape-inside:url(#rect830-9);display:inline;fill:#000000"
+       x="-25.029274"
+       y="0"><tspan
+         x="38.652126"
+         y="379.69163"
+         id="tspan27632"><tspan
+           style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic'"
+           id="tspan27630">PORTAMENTO / GLISSATO</tspan></tspan></text>
+  </g>
+</svg>

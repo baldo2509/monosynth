@@ -3,12 +3,15 @@
 ![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
 <img 
-	src="/Schematics/general_diagram.svg" 
+	src="/Schematics/general_diagram_it.svg" 
 	alt="A block diagram showing the basic structure of the synthesizer."
 />
 
 This is a collection of documentation, schematics, CAD files and code for a
 MIDI controlled analog synthesizer with integrated effects and arpeggiator.
+
+**NB:** Most project materials are currently only available in italian, international versions
+will be made available as soon as possible.
 
 ## Goals
 
@@ -51,6 +54,7 @@ such as being able to use the PCB fab's in house assembly service, more compact
 circuit board designs, and reduced parts costs.
 
 ## Modules
+
 ### Main Signal Path
 * **Input module: (WIP)** MIDI to Control Voltage converter, arpeggiator 
     and expression wheel controller;
